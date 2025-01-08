@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShoppingApp</string>
+        <string name="add_to_cart_message">%1$s added to cart</string>
+        <string name="price_format">Price: $%1$.2f</string>
+        <string name="total_price_format">Total: $%1$.2f</string>
+        <string name="add_to_cart">Add To Cart</string>
+        <string name="order_id">Order ID</string>
+        <string name="order_date">Order Date</string>
+
+</resources>
